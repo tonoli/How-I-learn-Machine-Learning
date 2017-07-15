@@ -8,3 +8,4 @@ https://see.stanford.edu/Course/CS229/42
 [Deep Learning Sumer School 2016 - University of Montreal](http://videolectures.net/deeplearning2016_precup_machine_learning/)
 
 ## Projects
+https://www.kaggle.com/c/conway-s-reverse-game-of-life
